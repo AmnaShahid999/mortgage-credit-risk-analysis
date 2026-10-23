@@ -1,3 +1,7 @@
+## Interactive dashboard
+
+[View the Mortgage Delinquency Dashboard on Tableau Public](https://public.tableau.com/views/Mortgage_Vintage_Analysis_Repaired/MortgageDelinquencybyOriginationYear)
+
 # Mortgage Portfolio Risk and Financial Forecasting
 
 A mortgage portfolio analytics project using Freddie Mac sample loans from the **2017, 2018, and 2019 vintages**, with Python for preparation, BigQuery for analysis, and Tableau for visualization.
@@ -105,5 +109,7 @@ The final summary currently reads `loan_monthly_analysis_2017`, `2018_loan_month
 3. Add transition and segmentation analysis.
 4. Develop a future serious-delinquency prediction model with an explicit target, observation window, and checks against information leakage.
 5. Extend to scenario analysis and financial planning outputs.
+
+
 
 Publish code, documentation, and suitable aggregate outputs in the portfolio repository. Keep source and prepared loan-level files out of the public repository; review the source data terms before distributing data or embedding downloadable workbook data. Add the public dashboard link once published.
